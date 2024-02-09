@@ -37,7 +37,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your bot.
+The 
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
