@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchainhub
+langchain-openai
+chromadb
+bs4
+openai
+pypdf
